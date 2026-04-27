@@ -1,0 +1,127 @@
+services:
+
+  # ── Interactive Streamlit dashboard ────────────────────────────────────────
+  dashboard:
+    image: test-1-dashboard:latest
+    container_name: swarm_dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app                   # use local source files (picks up any edits)
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    profiles:
+      - dashboard               # start with: docker compose --profile dashboard up
+
+  # ── Headless CLI run (writes CSV + JSON to ./data) ─────────────────────────
+  cli:
+    image: test-1-dashboard:latest
+    container_name: swarm_cli
+    volumes:
+      - .:/app
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    command:
+      - python
+      - run.py
+      - --preset=Breaking News
+      - --ticks=100
+      - --agents=1000
+      - --seed=42
+    profiles:
+      - cli                     # only starts with: docker compose --profile cli up
+
+  # ── AI Social Media Platform (interactive) ────────────────────────────────
+  social:
+    image: test-1-social:latest
+    container_name: social_platform
+    stdin_open: true
+    tty: true
+    env_file: .env
+    volumes:
+      - .:/app
+      - ./transcripts:/app/transcripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    profiles:
+      - social
+    command:
+      - python
+      - social_platform.py
+
+  # ── Dubai Real Estate Swarm (CAMEL-AI OASIS, 15 agents) ──────────────────
+  realestate:
+    image: test-1-realestate:latest
+    container_name: realestate_oasis
+    stdin_open: true
+    tty: true
+    env_file: .env
+    volumes:
+      - .:/app
+      - ./data:/app/data
+      - ./transcripts:/app/transcripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    command:
+      - python
+      - real_estate_oasis.py
+
+  # ── OASIS Agent Lab — Streamlit UI for the real estate simulation ──────────
+  oasis-ui:
+    image: test-1-oasis-ui:latest
+    container_name: oasis_ui
+    ports:
+      - "8503:8503"
+    volumes:
+      - .:/app                        # picks up fixed oasis_ui.py
+      - ./data:/app/data
+      - ./transcripts:/app/transcripts
+    env_file: .env
+    environment:
+      - PYTHONUNBUFFERED=1
+    profiles:
+      - oasis-ui
+    command:
+      - streamlit
+      - run
+      - oasis_ui.py
+      - --server.port=8503
+      - --server.address=0.0.0.0
+
+  # ── AI Social Media Platform — Streamlit UI ───────────────────────────────
+  social-ui:
+    image: test-1-social-ui:latest
+    container_name: social_ui
+    ports:
+      - "8505:8505"
+    volumes:
+      - .:/app                        # picks up fixed social_ui.py
+      - ./transcripts:/app/transcripts
+    env_file: .env
+    environment:
+      - PYTHONUNBUFFERED=1
+    profiles:
+      - social-ui
+    command:
+      - streamlit
+      - run
+      - social_ui.py
+      - --server.port=8505
+      - --server.address=0.0.0.0
+      - --server.headless=true
+
+  # ── Real-world scenario validation tests ───────────────────────────────────
+  test:
+    image: test-1-test:latest
+    container_name: swarm_test
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command:
+      - python
+      - test_scenarios.py
+    profiles:
+      - test

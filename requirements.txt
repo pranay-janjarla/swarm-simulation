@@ -1,0 +1,9 @@
+mesa>=2.3,<3.0
+streamlit>=1.35
+matplotlib>=3.8
+networkx>=3.3
+pandas>=2.2
+numpy>=1.26
+openai>=1.30
+python-dotenv>=1.0
+camel-oasis
