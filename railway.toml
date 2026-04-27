@@ -3,7 +3,7 @@ dockerfilePath = "Dockerfile"
 buildTimeout = 1800
 
 [deploy]
-startCommand = "streamlit run oasis_ui.py --server.port=$PORT --server.address=0.0.0.0 --server.headless=true"
+startCommand = "./start.sh"
 healthcheckPath = "/"
 healthcheckTimeout = 300
 restartPolicyType = "on_failure"
