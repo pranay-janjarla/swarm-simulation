@@ -1,0 +1,7 @@
+2026-04-27 07:25:56,935 - oasis.env - INFO - update rec table.
+2026-04-27 07:25:57,067 - oasis.env - INFO - performed all actions.
+2026-04-27 07:25:57,175 - oasis.env - INFO - update rec table.
+2026-04-27 07:26:31,976 - oasis.env - INFO - performed all actions.
+2026-04-27 07:26:32,085 - oasis.env - INFO - update rec table.
+2026-04-27 07:28:13,114 - oasis.env - INFO - performed all actions.
+2026-04-27 07:28:13,123 - oasis.env - INFO - Simulation finished! Please check the results in the database: ./transcripts/oasis_realestate.db. Note that the trace table stored all the actions of the agents.

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(pip install *)",
+      "Bash(pip --version)",
+      "Bash(py --version)",
+      "Bash(where python *)",
+      "Bash(cmd /c \"python --version\")",
+      "Bash(cmd /c \"where python\")",
+      "Bash(docker compose *)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.camel-ai.org)",
+      "Bash(dir \"c:\\\\Users\\\\pranay.janjarla_c\\\\Downloads\\\\test-1\" /b)"
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+INFO - 2026-04-27 07:31:30,264 - social.agent - Agent 0: {'success': True, 'post_id': 1}
+INFO - 2026-04-27 07:31:31,694 - social.agent - Agent 0 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,020 - social.agent - Agent 1 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,054 - social.agent - Agent 2 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,092 - social.agent - Agent 3 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,481 - social.agent - Agent 4 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,515 - social.agent - Agent 5 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,549 - social.agent - Agent 6 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,585 - social.agent - Agent 7 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,620 - social.agent - Agent 8 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,656 - social.agent - Agent 9 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,697 - social.agent - Agent 10 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,734 - social.agent - Agent 11 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,770 - social.agent - Agent 12 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,808 - social.agent - Agent 13 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, you see some posts [
+    {
+        "post_id": 1,
+        "user_id": 0,
+        "content": "\ud83d\udea8 BREAKING \u2014 Dubai Real Estate Market Update:\nDubai prime property prices dip 8% QoQ as global risk-off sentiment accelerates. DLD transaction volumes fall 22%. Analysts debate whether this is a healthy correction or the start of a broader downturn.\n\n#DubaiRealEstate #UAEProperty #PropertyMarket",
+        "created_at": "2026-04-27 07:34:03.702819",
+        "score": 0,
+        "num_shares": 0,
+        "num_reports": 0,
+        "comments": []
+    }
+]
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:32,845 - social.agent - Agent 14 observing environment: And there are many group chat channels {}
+And You are already in some groups []
+You receive some messages from them {}
+You can join the groups you are interested, leave the groups you already in, send messages to the group you already in.
+You must make sure you can only send messages to the group you are already in
+After refreshing, there are no existing posts.
+pick one you want to perform action that best reflects your current inclination based on your profile and posts content. Do not limit your action in just `like` to like posts
+INFO - 2026-04-27 07:31:48,768 - social.agent - Agent 14 performed action: create_post with args: {'content': 'Sold my Dubai Marina apartment today for 40% more than I paid in 2019. Not bad for a “bubble”, eh? I rented it for two years at 7–8% gross yields, minimal vacancy, zero income tax. Proper result. \n\nI’m moving back to the UK for family reasons, but if I were staying in Dubai I’d be buying again. Fundamentals still look solid: visas and talent inflows, infrastructure, tourism demand, remote work, and quality stock being absorbed faster than people think. \n\nWhat worked for me:\n- Buy prime or prime-adjacent, walkable to beach/metro.\n- Stick with reputable developers; check service charges before you fall in love with the view.\n- Think in cycles. Hold 5+ years and ignore the noise.\n- Run the numbers like a business: yield, fees, financing, exit plan.\n\nIf you’re on the fence, I’m happy to share my agent, mortgage broker, and the spreadsheet I used. DM me. The doom-and-gloom crowd shout “top” every year — meanwhile some of us are quietly cashing cheques 😉'}
+INFO - 2026-04-27 07:31:51,377 - social.agent - Agent 8 performed action: create_comment with args: {'post_id': 1, 'content': 'Prime can swing harder than the broader market, and volumes usually wobble first. A 22% drop could be part seasonality, part tighter financing conditions.\n\nPractical take:\n- Buyers: stress-test at +200 bps on your current rate; keep EMI under ~35% of income and hold a 9–12 month cash buffer. If EIBOR volatility worries you, consider a 2–3 year fix.\n- Existing mortgages: request repricing from your bank and use any surplus for partial prepayments to principal. Check early settlement/break fees before refinancing.\n- Investors: buy on yield, not momentum. Aim for net yield comfortably above your all-in mortgage rate (+1% buffer). Underwrite realistic vacancy and service charges.\n- Sellers: price to market—reasonable incentives beat stale, over-ambitious asks when liquidity thins.\n\nWhat to watch next: EIBOR trend (Fed path), DLD weekly volumes, and upcoming handovers. A healthy cooling isn’t a crisis—but it’s a reminder not to over-leverage.'}
+INFO - 2026-04-27 07:31:51,382 - social.agent - Agent 13 performed action: like_post with args: {'post_id': 1}
+INFO - 2026-04-27 07:31:52,744 - social.agent - Agent 4 performed action: create_comment with args: {'post_id': 1, 'content': 'A correction isn’t inherently bad, but in Dubai it becomes risky when off‑plan cashflows get strained. Two practical checks for buyers right now:\n\n- Pay only into the project’s RERA escrow account and verify details in your SPA; withdrawals must be milestone‑based and engineer‑certified. Any request to pay outside escrow is a red flag.\n- Ensure timely Oqood registration and track construction progress versus amounts collected. If progress lags collections, expect delays or restructuring.\n\nLeading indicators I’m watching: increase in assignment listings, wider gap between off‑plan and secondary prices, contractor payment delays, and service charge hikes compressing net yields. If these persist with volumes down 20%+, pockets of distress could emerge.\n\nHealthy correction = discipline on escrow and delivery. Broader downturn = developer cashflow shortcuts. Protect yourself and document everything—RERA and DLD will act when there’s clear non‑compliance.'}
+INFO - 2026-04-27 07:31:55,139 - social.agent - Agent 11 performed action: like_post with args: {'post_id': 1}
+INFO - 2026-04-27 07:31:55,143 - social.agent - Agent 1 performed action: create_comment with args: {'post_id': 1, 'content': 'This makes me a bit anxious as a first-time buyer. Is the 8% QoQ dip mainly in prime areas (Palm, DIFC, Downtown), or are mid-market 1BRs also seeing price softness? And with DLD volumes down 22%, does that usually translate into more negotiability or actual price cuts over the next quarter?\n\nI\x19m an Emirati woman saving for my first apartment (budget around AED 1\x0501.2m; looking at a 1BR in places like JVC, Business Bay, or Creek Harbour). I have ~25% down and a mortgage pre-approval in progress. With this update, would you advise waiting 3\x056 months to see if prices correct further, or is this more of a healthy pause?\n\nAlso:\n- How are mortgage rates trending in the UAE now? If I lock a fixed rate, can banks reprice if rates drop later?\n- Are developers offering stronger incentives (waived DLD fees, service charge discounts, payment plans) in response to slower volumes?\n- For a cautious buyer, is off-plan riskier in a potential downturn versus ready units with motivated sellers?\n\nWould love any data sources behind these figures and practical advice from agents or recent buyers. I\x19m worried about taking on a mortgage at the peak and don\x19t want to make a mistake.'}
+INFO - 2026-04-27 07:31:55,727 - social.agent - Agent 6 performed action: create_comment with args: {'post_id': 1, 'content': 'Oof, this is exactly the kind of headline that messes with my head. I’ve been renting in Dubai for 6 years, saved up a decent down payment, and was about to pull the trigger on a 2BR (looking at JVC/Arjan or maybe a starter unit in Creek). But seeing “-8% in prime and volumes down 22%” makes me freeze again.\n\nFor those who watch the data more closely:\n- Is this dip mostly in prime (Palm/Downtown/Bluewaters) or is it already trickling into the mid-market freehold areas too?\n- For an end-user with ~20–25% down and a 5–7 year horizon, does it make more sense to wait 6–12 months or just buy something livable now and stop paying rising rents?\n- What are you seeing with rents right now? If rents keep climbing, the rent vs buy math might still push me toward buying even if prices soften a bit.\n- Any clarity on visas tied to property? Does a 750k+ property still support a shorter investor visa, or is it basically 2M AED for Golden Visa now? I’m tired of feeling employer-dependent for residency.\n- Off-plan vs ready in this environment: are developers actually negotiating better terms, or is the risk of being underwater on handover too high if the market keeps correcting?\n- Mortgage rates/EIBOR—are they trending down at all or still sticky? That changes affordability more than a headline price dip for me.\n\nI keep getting FOMO every time the market rallies, and now I’m suddenly tempted to wait again—but I’m scared of missing the next leg up. Would love to hear from anyone who bought in 2021/2022 and rode through ups and downs: what would you do if you were me now? Not financial advice, just trying to stay sane. 🙏'}
+INFO - 2026-04-27 07:31:56,742 - social.agent - Agent 3 performed action: like_post with args: {'post_id': 1}
+INFO - 2026-04-27 07:31:56,855 - social.agent - Agent 10 performed action: create_comment with args: {'post_id': 1, 'content': 'As someone working on housing policy in Dubai, I see a correction as an opportunity—if we use it to rebalance the pipeline toward end users, not just speculative luxury. Prime slipping and volumes down 22% suggest we should prioritize affordability and stability:\n\n- modest inclusionary requirements in large masterplans (set-asides for mid-income/affordable);\n- unlock public land for social housing via PPPs with long-term covenants;\n- incentivize build-to-rent near Metro/bus corridors with realistic price points;\n- curb quick flipping and align fees/approvals to favor genuine owner-occupiers.\n\nThe indicators I’m watching aren’t just prime prices: affordability ratios (income-to-rent), vacancy by submarket, wage growth vs rent inflation, and commute times. A resilient market is one where nurses, teachers, and service workers can live decently within the city, not just investors trading prime units. Healthy correction = chance to build that resilience.'}
+INFO - 2026-04-27 07:31:58,591 - social.agent - Agent 12 performed action: create_comment with args: {'post_id': 1, 'content': 'Healthy correction or downturn? Before we call it, a few things to watch:\n- Mix effects: “Prime” is thin and lumpy. A couple of trophy deals dropping out can swing QoQ. Compare median vs average and use size/quality-adjusted indices.\n- Seasonality and funding: QoQ spans holiday/Ramadan effects and tighter global liquidity. Track mortgage approvals and cash vs mortgage share.\n- Off‑plan vs ready: If the 22% volume dip is mostly off‑plan registrations, that’s launch cadence; if ready/secondary slows with rising days‑on‑market, that’s softer demand.\n- Rentals and yields: If rents hold while prices dip, yields normalize and value buyers step in. If both soften, that’s broader demand erosion.\n\nVolatility is when transparency matters most. Live comps and AVMs beat headline averages. Base case: price discovery pause rather than a slide, with mid‑market/yield stock holding up better than ultra‑prime. Great window for data‑driven buyers—and for the industry to embrace real‑time pricing.'}
+INFO - 2026-04-27 07:32:02,587 - social.agent - Agent 5 performed action: create_comment with args: {'post_id': 1, 'content': 'Headline prints invite noise; focus on liquidity and leverage, not just price prints.\n\nContext:\n- After a multi‑year upcycle, an 8% QoQ move in prime looks more like bid‑ask reset than a trend break.\n- DLD volumes -22% likely reflect seasonality (Ramadan/Eid) and a mix shift from off‑plan to secondary.\n- System leverage is modest; cash buyers dominate. Absent a liquidity event, forced selling should be limited.\n- What I’m watching: EIBOR trajectory, bank LTV discipline, developer escrow balances, pre‑sale conversion/cancellation rates, and DLD auction volumes.\n- Fundamentals: tourism/occupancy, net migration, and the 2026–27 handover pipeline—oversupply risk is submarket‑specific, less so in true prime.\n- Valuation: prime cap rates vs risk‑free; if global rates roll over, spreads normalise.\n\nBase case: 1–2 quarters of price discovery. Selectively bidding income assets with durable covenants; avoiding off‑plan with thin equity and speculative churn.'}
+INFO - 2026-04-27 07:32:03,428 - social.agent - Agent 7 performed action: like_post with args: {'post_id': 1}
+INFO - 2026-04-27 07:32:04,904 - social.agent - Agent 9 performed action: like_post with args: {'post_id': 1}
+INFO - 2026-04-27 07:32:08,214 - social.agent - Agent 0 performed action: repost with args: {'post_id': 1}
+INFO - 2026-04-27 07:32:12,626 - social.agent - Agent 2 performed action: repost with args: {'post_id': 1}
