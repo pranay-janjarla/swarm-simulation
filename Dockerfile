@@ -13,8 +13,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy source
 COPY config.py event.py message_mutation.py agent.py model.py run.py dashboard.py test_scenarios.py social_platform.py real_estate_oasis.py oasis_ui.py social_ui.py ./
 
-# Directory for CSV/JSON exports (mounted as a volume in compose)
-RUN mkdir -p /app/data
+# Agent profile data
+RUN mkdir -p /app/data /app/transcripts
+COPY data/ /app/data/
 
 # Streamlit ports (dashboard on 8501, oasis-ui on 8503)
 EXPOSE 8501 8503
