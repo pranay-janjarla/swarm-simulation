@@ -24,6 +24,12 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+# Inject Streamlit Cloud secrets into os.environ so subprocesses and
+# dotenv-based modules (real_estate_oasis.py) pick them up automatically.
+for _k, _v in st.secrets.items():
+    if isinstance(_v, str):
+        os.environ.setdefault(_k, _v)
+
 # ──────────────────────────────────────────────────────────────────────────────
 # Constants
 # ──────────────────────────────────────────────────────────────────────────────
