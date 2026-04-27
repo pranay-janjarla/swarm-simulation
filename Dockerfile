@@ -6,7 +6,11 @@ ENV PYTHONDONTWRITEBYTECODE=1
 
 WORKDIR /app
 
-# Install dependencies and clean up to keep image small
+# Install CPU-only PyTorch first to prevent camel-oasis from pulling in
+# the full CUDA build (~2.5 GB of GPU libraries we don't need on Railway)
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
+# Install remaining dependencies and clean up to keep image small
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt \
     && find /usr/local/lib/python3.11 -type d -name "tests" -exec rm -rf {} + 2>/dev/null || true \
